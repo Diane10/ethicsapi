@@ -17,14 +17,15 @@ python app.py
 ```
 g)Since the 3 projects can’t be pushed to GitHub because it has large files
 we have uploaded the project into Drive. To be able to run those projects you just need to have 
+
 Unity version
--2021.3.32f1
--2022.3.15f1
--Openai installed in unity
+1.2021.3.32f1
+2.2022.3.15f1
+3.Openai installed in unity
 Unity code
-```
-3. https://drive.google.com/drive/folders/1FquR6KvaHzgjNh8c5M3A9ihSKK8M56HK?usp=sharing
 ```bash
+ https://drive.google.com/drive/folders/1FquR6KvaHzgjNh8c5M3A9ihSKK8M56HK?usp=sharing
+```
 
 
 
